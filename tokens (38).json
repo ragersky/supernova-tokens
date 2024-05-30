@@ -1,0 +1,21 @@
+{
+  "global": {
+    "test": {
+      "value": "#eb1717",
+      "type": "color"
+    }
+  },
+  "light": {
+    "test-light": {
+      "value": "{test} .fff",
+      "type": "color"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "light"
+    ]
+  }
+}
